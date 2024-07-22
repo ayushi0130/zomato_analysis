@@ -55,5 +55,13 @@ python zomato_data_analysis.py
 This script performs comprehensive data analysis on Zomato data, covering missing values, text analysis, frequency distribution, and geographical visualization. The heatmaps provide a visual representation of the concentration of different types of restaurants across Bangalore.
 
 1. Relation Between Online Order and Rating:
+<img width="616" alt="Screen Shot 2024-07-22 at 15 52 37" src="https://github.com/user-attachments/assets/3ea48a73-d05a-4044-8b6a-5c6f351d158c">
+<img width="613" alt="Screen Shot 2024-07-22 at 15 52 50" src="https://github.com/user-attachments/assets/0c61b75b-652f-44fd-bfad-9ba573c1ce73">
+
 2. Unigram, Bigram and Trigram Analysis:
+<img width="1357" alt="Screen Shot 2024-07-22 at 16 03 34" src="https://github.com/user-attachments/assets/f057ca12-2752-425f-8a0c-18b18472a10c">
+<img width="1333" alt="Screen Shot 2024-07-22 at 16 04 27" src="https://github.com/user-attachments/assets/1c4bd9cd-94e6-4276-a0f7-fd9e910d6e35">
+<img width="1291" alt="Screen Shot 2024-07-22 at 16 05 18" src="https://github.com/user-attachments/assets/7082d69c-c76a-4cd0-b44d-e77eec08e94f">
+
 3. Spatial Analysis(HeatMap):
+<img width="1276" alt="Screen Shot 2024-07-18 at 13 45 19" src="https://github.com/user-attachments/assets/d5f963f2-9042-44b8-aca8-364817b34b03">
